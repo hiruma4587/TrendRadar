@@ -89,11 +89,20 @@ platforms:
     name: "凤凰网"
   - id: "zaobao"
     name: "联合早报"
+  - id:  "zhihu"
+    name: "知乎"
+  - id:  "douyin"
+    name: "抖音"
+    
     
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
-    name: "微博"
+    name: "微博热搜"
 
   # === 科技类平台 ===
   - id: "github"
-    name: "GitHub"
+    name: "GitHub最热项目"
+  - id: "v2ex-share"
+    name: "V2EX最新分享"
+  - id: "sspai"
+    name: "少数派"
